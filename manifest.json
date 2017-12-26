@@ -1,0 +1,11 @@
+{
+  "files": {
+    "index.js": "d82d760eed019cfacd051c3e6f57a125f28c8dfae4a548e13b34a74e8857e925",
+    "module.json": "536384434621e5bc48ea57c4d9bbfb1308e83a443647d70a78f2805845dfa869",
+    "README.md": "e1e668abc4a547022c85ab335eed3c7e890d6d6f17975b14d0150d243ec36d5b"
+  },
+   "defs": {
+    "S_LOAD_TOPO": 1,
+	"C_RESET_ALL_DUNGEON": 1
+  }
+}
