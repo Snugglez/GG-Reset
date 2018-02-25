@@ -1,9 +1,10 @@
 {
   "files": {
-    "index.js": "d82d760eed019cfacd051c3e6f57a125f28c8dfae4a548e13b34a74e8857e925",
-    "module.json": "536384434621e5bc48ea57c4d9bbfb1308e83a443647d70a78f2805845dfa869",
-    "README.md": "e1e668abc4a547022c85ab335eed3c7e890d6d6f17975b14d0150d243ec36d5b"
-  },
+    "config.json": "f69597ee6683b54601c39594e93aa5f36cfe01999f3366d8de73f1b529830b9c",
+    "index.js": "0d333a7d91c8b8761513833efa14e88802cb19c99e22ebc895dab1375ce3477b",
+    "module.json": "cec7a264ea6a5d33c93b73e6bcf2c1d2b0039a0e8d2fc18f0231bd9e24ce3893",
+    "README.md": "0b4db530f4bf8cf6d095c855ac2e47c1469e0930f3d1555561ab34d72963bb68"
+   },
    "defs": {
     "S_LOAD_TOPO": 1,
 	"C_RESET_ALL_DUNGEON": 1
