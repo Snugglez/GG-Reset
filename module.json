@@ -2,6 +2,7 @@
 	"disableAutoUpdate": false,
     "name": "GG-Reset",
     "author": "Snug",
+	"donationUrl": "https://play.google.com/store/apps/details?id=com.CarvedGames.SD",
     "description": "Automaticly resets ghillie once entering Velik's Sanctuary",
     "version": "1.0",
 	"servers": ["https://raw.githubusercontent.com/Snugglez/GG-Reset/master/"],
